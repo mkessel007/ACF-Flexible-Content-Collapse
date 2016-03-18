@@ -3,7 +3,7 @@ ACF - Admin Flexible Content Collapse
 
 When you create a Flexible Content Field with many layouts and many fields, you can quickly lose overview. Similarly, if you have ever tried to sort the layouts or move fields between layouts, you know that this can be a difficult undertaking.
 
-This is where ACF - Admin Flexible Content Collapse comes in place. You can collapse/expand the layouts for a better overview, sorting layouts or move fields.
+This is where **ACF - Admin Flexible Content Collapse** comes in place. You can collapse/expand the layouts for a better overview, sorting layouts or move fields.
 
 In addition, I replaced the text links for sorting, adding etc. against symbols.
 
