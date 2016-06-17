@@ -3,7 +3,7 @@
 Plugin Name: ACF Admin Flexible Content Collapse
 Plugin URI: https://github.com/tmconnect/ACF-Flexible-Content-Collapse
 Description: Make Flexible Content Field Layouts collapsible in the Field Group Editor
-Version: 1.0.0
+Version: 1.0.1
 Author: Thomas Meyer
 Author URI: http://www.dreihochzwo.de
 Text Domain: acf_admin_flex_collapse
