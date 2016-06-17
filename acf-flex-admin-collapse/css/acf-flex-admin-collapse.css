@@ -63,6 +63,10 @@
   font-size: 14px;
 }
 
+.acf-field p.description .acf-fl-actions {
+	display: block;
+}
+
 .acf-fl-actions a {
   display: inline-block;
   line-height: 20px;
